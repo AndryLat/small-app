@@ -1,7 +1,7 @@
 plugins {
     id 'application'
 }
-
+archivesBaseName = 'small-app'
 repositories {
     mavenCentral()
 }
